@@ -1,0 +1,43 @@
+body *{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.social-top-bar {
+    display: grid;
+    background-color: #eeeeee;
+}
+
+.facebook-icon {
+    height: 20px;
+    
+}
+
+.instagram-icon {
+    height: 20px;
+}
+
+.linkedin-icon {
+    height: 20px;
+}
+
+footer {
+    display: grid;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    grid-template-columns: 
+    grid-template-rows: 
+    
+    
+    
+}
+
+.footer-img {
+    height: 700px;
+    
+}
